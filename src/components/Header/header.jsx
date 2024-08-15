@@ -4,7 +4,7 @@ import './header.css';
 const Header = () => {
   return (
     <header className="header">
-      <h1 className="header__title">My React Project</h1>
+      <h1 className="header__title">Landing Page React</h1>
       <nav className="header__nav">
         <ul className="header__nav-list">
           <li className="header__nav-item">
