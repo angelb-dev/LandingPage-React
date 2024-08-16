@@ -23,7 +23,7 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
+  display: grid;
 }
 
 h1 {
